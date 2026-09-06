@@ -904,7 +904,7 @@ Blanton, Henry	25676	Adult Full	-5.88318	4/18/2027	Seattle AGA Chapter	WA	0.5496
 Blasiak, Jonah	10363	Adult Full	-21.93000	2/23/2002	Princeton Go Club	NJ	4.02000	4/1/2003
 Blasiok, Jaroslaw	22812	Adult Full	-8.46994	7/29/2017		MA	0.64742	8/3/2016
 Blaskie, Marcus	23347	Adult Full		6/1/2025		MO		
-Blaszczyk, Diana	30730	Complimentary		9/26/2024				
+Blaszczyk, Diana	30730	Complimentary		3/4/2027				
 Blaszczyk, Diana	30734	Tournament Pass	-1.84864	3/8/2024			0.49309	8/17/2024
 Blatt, Melanie	14416	Adult Full	-21.38000	4/7/2008	Univ. of Maryland Go Club	MD	0.81000	5/1/2007
 Blatt, Todd	13610	Adult Full	-2.83424	4/2/2026		MD	0.66363	7/13/2025
@@ -3524,7 +3524,7 @@ Ellis, Mark	13927	Adult Full	-13.75000	10/16/2006	Louisville Go Club	KY	1.45000	
 Ellis, Scott	10697	Adult Full	-12.37000	8/16/2006	Charlotte Go Club	NC	0.34000	4/1/2006
 Ellison, Chris	10274	Adult Full	-21.08000	12/28/2001		MD	0.64000	12/1/2001
 Elliston, David	24945	Adult Full	-7.02518	11/18/2020			1.08088	11/9/2019
-Elliston, Kendra	30347	Adult Full	-24.72283	8/30/2026		MA	0.56736	7/25/2026
+Elliston, Kendra	30347	Adult Full	-24.72283	9/4/2027	Providence Go Club	MA	0.56736	7/25/2026
 Elroy, Ron	11378	Adult Full	-7.48000	8/15/2005		NY	0.52000	9/1/2004
 El-Sabrout, Omar	30581	Adult Full	-6.29222	4/29/2026		NY	0.47740	5/3/2025
 Elser, Jeff	25212	Adult Full		7/16/2021	Gallatin Valley Go Club	MT		
@@ -4177,7 +4177,7 @@ Gao, Hillary	15163	Adult Full	-24.96000	1/28/2009	Feng Yun Go School	NJ	0.72000	
 Gao, James	13270	Adult Full	-7.80000	7/26/2009		MD	0.54000	8/1/2008
 Gao, Jimin	8002	Tournament Pass	5.31000	2/5/2006		PA	0.48000	2/1/2006
 Gao, Jonathan Yiyuan	26322	Youth		1/16/2024				
-Gao, Logan	31904	Youth	-25.54666	6/27/2026		TX	2.81414	7/13/2025
+Gao, Logan	31904	Youth	-25.54666	9/4/2027		TX	2.81414	7/13/2025
 Gao, Mason	13574	Tournament Pass	-15.75000	5/14/2005			1.74000	5/1/2005
 Gao, Ming	12768	Tournament Pass	3.78000	6/21/2004	Evanston Go Club	IL	0.63000	7/1/2004
 Gao, Nolan	18607	Adult Full	-8.26422	2/6/2012		CO	0.77811	2/5/2011
@@ -8302,6 +8302,7 @@ Li, Ke-Guang	9230	Tournament Pass	6.47000	8/22/1998			0.49000	9/1/1998
 Li, Kelly	24512	Youth	-31.07595	3/23/2020	Syracuse Go Club	NY	0.67076	11/2/2019
 Li, Ken	11571	Tournament Pass	-18.49000	1/16/2003			1.98000	2/1/2003
 Li, Kevin	30269	Adult Full	1.88222	5/20/2027	Evanston Go Club	IL	0.21645	8/3/2026
+Li, Krystal	32818	Youth		9/4/2027		NJ		
 Li, Kunxuan	24762	Complimentary	6.05871	1/1/2023			0.65436	7/14/2019
 Li, La	17643	Tournament Pass	4.77000	7/23/2009			0.80000	8/1/2009
 Li, Lanfeng	6063	Adult Full	2.95000	7/28/1995		CO	0.60000	9/1/1994
@@ -8353,7 +8354,7 @@ Li, Siqi	21839	Youth	-8.27289	8/6/2019	Syracuse Go Club	NY	0.42602	7/14/2019
 Li, Siyuan	20520	Adult Full	7.95333	4/3/2015		VA	0.48363	4/26/2014
 Li, Siyue	25930	Adult Full	3.01117	11/30/2023		MA	0.72365	12/3/2022
 Li, Siyue	26158	Tournament Pass	2.94748	10/28/2022		WA	0.90281	10/22/2022
-Li, Song	10146	Tournament Pass	6.30171	2/8/2013	Bay Area Go Players Assoc.	CA	0.47546	1/26/2013
+Li, Song	10146	Adult Full	6.30171	9/4/2027	Bay Area Go Players Assoc.	CA	0.47546	1/26/2013
 Li, Song	12752	Tournament Pass	-2.64000	6/11/2004			0.68000	10/1/2003
 Li, Stephanie	21550	Adult Full	-17.39504	12/8/2015		NY	1.59511	11/22/2014
 Li, Steve Sihao	8834	Adult Full	5.55000	10/10/1998		VA	0.55000	3/1/1998
@@ -14001,6 +14002,7 @@ Tian, David	16065	Adult Full	-24.94000	12/16/2008		NJ	0.63000	4/1/2008
 Tian, Fongdong	13225	Adult Full	-1.79000	1/29/2006		CT	0.54000	5/1/2006
 Tian, Ligeng	32416	Complimentary	6.38332	9/23/2026		NS	0.49308	7/31/2026
 Tian, Ximeng	11390	Adult Full	-17.80000	3/14/2005	Feng Yun Go School	NJ	1.68000	3/1/2004
+Tian, Ye	32817	Youth		9/4/2027		CA		
 Tian, YuYu	13572	Tournament Pass	-13.32000	5/14/2005			0.79000	5/1/2007
 Tian, Zhong	22006	Adult Full	1.03187	8/9/2016		MA	0.65348	9/26/2015
 Tian, Zonglin	21521	Adult Full	1.79679	11/23/2015		MD	0.68153	11/16/2014
@@ -16795,6 +16797,7 @@ Zhang, Zi Yin	9068	Tournament Pass	4.29000	10/31/1998	NOVA Go Club	VA	0.47000	12
 Zhang, Zichong	32051	Adult Full	3.14748	9/15/2026		NC	0.62752	9/20/2025
 Zhang, Zizhou	31360	Youth	-4.32749	1/21/2027	Orange County Go Club	CA	0.26911	1/17/2026
 Zhang, Zoey	22806	Youth	-18.42016	7/31/2021		MA	1.44002	4/10/2019
+Zhang, Zoey	32816	Youth		9/4/2027		IN		
 Zhang-Zheng, Vincent	15925	Adult Full	-5.02570	2/16/2015	Feng Yun Go School	NJ	0.49552	3/1/2014
 Zhao, Alan	10625	Tournament Pass	4.21000	6/27/2001		IL	1.12000	1/1/2004
 Zhao, Aleck	15165	Adult Full	6.05000	1/28/2012	Feng Yun Go School	NJ	0.50000	12/1/2008
