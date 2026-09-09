@@ -3174,6 +3174,7 @@ Dibble, David	8237	Adult Full	-1.07000	1/29/1999		CA	0.60000	3/1/1998
 Dick, Cody	31233	Tournament Pass	-10.23098	10/12/2024		MN	1.25992	9/28/2024
 Dick, Michael	9265	Adult Full		1/10/2026		VA		
 Dickinson, Archer	32200	Youth	-7.60177	11/12/2026		CA	0.64952	2/1/2026
+Dickinson, Caleb	32824	Adult Full		9/9/2027				
 Dickopp, Tilo	18577	Tournament Pass	3.42395	1/15/2011			0.76947	1/8/2011
 Dickson, Marc	17585	Adult Full	-32.42000	6/24/2010		FL	2.45000	7/1/2009
 Diedrich, Karl	26301	Adult Full	-15.48819	1/10/2025	St. Louis Go Club	MO	0.47407	7/23/2024
@@ -5029,6 +5030,7 @@ Harris, Steven	4091	Tournament Pass	-9.05145	2/17/2003		IL	0.68505	9/3/2011
 Harris, William	2359	Adult Full	-6.56000	12/28/1985		VA	0.83000	9/1/1997
 Harrison, Cliff	4896	Adult Full	-4.50000	7/28/1992	Massachusetts Go Association	MA	0.00000	11/15/1992
 Harrison, Jack	32422	Youth		3/16/2027		IL		
+Harrison, Jacob	32823	Adult Full		9/7/2027		NC		
 Harrison, Sam	32158	Youth		10/27/2026	Univ. of Maryland Go Club			
 Harry, Drew	13010	Adult Full	-14.72000	10/15/2006		RI	0.79000	7/1/2005
 Harsha, Madeleine	24596	Adult Full	-10.00151	9/2/2020	Corvallis Go Club	OR	0.68645	9/21/2019
@@ -15746,7 +15748,7 @@ Xiong, Jeffrey	20147	Youth	-12.83944	8/27/2014		CA	0.29284	12/7/2013
 Xiong, Kevin	17430	Youth	-4.24581	6/14/2015	Massachusetts Go Association	MA	0.71786	3/6/2011
 Xiong, Nqua	20441	Adult Full	2.70977	4/29/2026	Schaumburg Go Club	IL	0.53575	5/24/2025
 Xiong, Xing	11623	Adult Full	6.50000	2/6/2004	Seattle AGA Chapter	WA	0.36000	2/1/2004
-xiong, xuyan	31266	Youth	4.72656	9/28/2026		MI	0.28863	5/23/2026
+xiong, xuyan	31266	Youth	4.72656	9/28/2027		MI	0.28863	5/23/2026
 Xiong, Ying-Sha	6019	Adult Full	-8.40000	3/28/1993		FL	0.00000	11/15/1992
 Xiong, Yupei	11891	Adult Full	9.36000	5/27/2005	Univ. of Maryland Go Club	MD	0.38000	2/1/2006
 Xiong, Zhisheng	11379	Adult Full	1.76000	3/24/2025	North Puget Sound Go Club	WA	0.64000	11/1/2002
