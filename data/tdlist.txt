@@ -100,7 +100,7 @@ Akeyama, Koichi	17828	Adult Full	-1.97000	10/24/2010	Bay Area Go Players Assoc.	
 Akeyama, Shuntaro	17830	Youth	-18.50000	10/24/2010	Bay Area Go Players Assoc.	CA	2.78000	11/1/2009
 Akeyama, Yuriko	17829	Adult Full	-16.30000	10/24/2010	Bay Area Go Players Assoc.	CA	1.98000	11/1/2009
 Aklilu, Tinsae	18727	Adult Full	-22.37063	3/24/2012		MA	0.67282	1/14/2012
-Alailima, Titi	18345	Adult Full	-5.62375	9/25/2026	Massachusetts Go Association	MA	0.30728	4/23/2018
+Alailima, Titi	18345	Adult Full	-5.62375	9/25/2027	Massachusetts Go Association	MA	0.30728	4/23/2018
 Alarcon, Sebastian	30883	Adult Full	-14.96170	2/7/2027		TX	0.65141	2/14/2026
 Alawi, Zaid	19738	Tournament Pass	-7.78892	2/20/2013	Evanston Go Club	IL	1.02047	3/5/2016
 Albert, Michael	20280	Adult Full	-10.61179	11/17/2025	Twin Cities Go Club	MN	0.70521	8/2/2015
@@ -5595,7 +5595,7 @@ Howell, Ren	14768	Adult Full	-22.37000	10/11/2007	Seattle AGA Chapter	WA	2.25000
 Howell, Susan	3622	Adult Full	-11.99000	11/7/2005		CO	0.76000	2/1/2005
 Howland, Porter	20621	Adult Full	-12.57181	5/23/2015		CA	0.43532	1/3/2015
 HOWLEY, Michael	1317	Adult Full		11/30/2024		PA		
-Hoy, Steven	32826	Adult Full		9/10/2027				
+Hoy, Steven	32826	Adult Full		9/9/2027	Portland Go Club	OR		
 Hoyt, Bill	6256	Adult Full	-2.60000	1/28/1994		DE	0.00000	1/15/1994
 hranek, Jackson	25568	Adult Full	-6.50584	9/7/2026	San Diego Go Club	CA	0.24408	5/24/2026
 Hrechun, Michael	15854	Adult Full	-21.98000	10/10/2008		MD	1.04000	11/1/2007
@@ -7687,6 +7687,7 @@ Lanningham, Damian	21097	Adult Full	-12.54533	3/8/2015		NY	0.38441	8/10/2014
 Lanouette, Timothy	15682	Adult Full	-5.33000	7/22/2008		NH	0.59000	8/1/2007
 Lanphear III, Lester	439	Adult Full	-2.82408	1/30/2027	San Diego Go Club	CA	0.22735	5/24/2026
 Lanzetta, Karen	13103	Adult Full - Lifetime	-1.11745	9/1/2064		NH	0.53244	4/9/2017
+Lao, Ethan	32828	Youth		9/9/2027		NY		
 Lao, Jason Dwight	31388	Adult Full	-19.26472	11/27/2025		CA	2.06532	11/30/2024
 Lao, Sebastian	32797	Youth		8/27/2027		NY		
 Lapham, William	5186	Adult Full	-3.00000	4/28/1993	Portland Go Club	OR	0.00000	11/15/1992
@@ -12515,7 +12516,7 @@ Sengupta, Sikata	19799	Youth	-14.95626	3/26/2014	Feng Yun Go School	NJ	0.70480	3
 Sensiba, Jacob	31875	Adult Full	-9.27435	6/11/2026		VA	0.52464	7/13/2025
 Sensig, Steve	8470	Tournament Pass	-12.24000	3/28/1997		FL	1.40000	3/1/1997
 Sensui, Akira	9802	Adult Full	-3.09000	1/9/2004			0.54000	3/1/2000
-Sento, Chizuko	24584	Complimentary	-4.84043	1/1/2023			0.44948	6/22/2019
+Sento, Chizuko	24584	Complimentary	-4.84043	3/9/2027			0.44948	6/22/2019
 Seo, Bo-Hyun	9044	Adult Full	3.36000	3/20/1999	Seattle AGA Chapter	WA	0.59000	6/1/1998
 Seo, Chung Tye	10393	Tournament Pass	-2.69000	2/28/2001			0.82000	3/1/2001
 Seo, Dae Soo	1478	Adult Full	1.73000	12/28/1981		NY	0.77000	3/1/2001
